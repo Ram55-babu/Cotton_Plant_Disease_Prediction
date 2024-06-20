@@ -1,0 +1,8 @@
+tensorflow version 2.14.0
+numpy
+gpu
+keras
+inceptionv3
+streamlit
+scikit-learn
+pandas
